@@ -9,3 +9,5 @@ Description:
 - application follows a typical client-server model and provides dual functionality (Network and Shell) to the clients as well as the server
 - upon successful log in, clients can send, broadcast and receive messages apart from having options to block and unblock other clients
 - part of the course 'CSE 589 - Modern Networking Concepts' at University at Buffalo, SUNY
+
+**The description of this and the other projects in this course are available at https://cse4589.github.io/.**
