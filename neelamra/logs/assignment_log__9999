@@ -1,0 +1,18 @@
+[LIST:SUCCESS]
+1    localhost                          127.0.0.1           1234    
+[LIST:END]
+[RELAYED:SUCCESS]
+msg from:127.0.0.1, to:127.0.0.1
+[msg]:niladeesify
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:127.0.0.1, to:127.0.0.1
+[msg]:hiii
+[RELAYED:END]
+[STATISTICS:SUCCESS]
+1    localhost                          3       2       logged-in
+[STATISTICS:END]
+[RELAYED:SUCCESS]
+msg from:127.0.0.1, to:255.255.255.255
+[msg]:udsajkd
+[RELAYED:END]
